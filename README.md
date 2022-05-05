@@ -1,16 +1,20 @@
-### Hi there 👋
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<!--
-**LaoChenyyds/Laochenyyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm LaoChen 👋
+*I'm just a curious cat Old boy. –oldChen*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+💻 macOS & Manjaro user
+
+📲 QQ/WeChat：3337123
+
+📫 How to reach me: [Admin[at]chenplus.com](mailto:admin@chenplus.com)
+
+🛠 Full-stack Web Developer & Android Developer
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LaoChenyyds&show_icons=true&hide_border=true">
+ <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+ ![](https://count.getloli.com/get/@LaoChenyyds)
+
+#### © ChenPlus.com | [@WeiBo](https://weibo.com/ChenChilde) · [@Blog](https://blog.chenplus.com) · [@GitHub](https://github.com/LaoChenyyds)
