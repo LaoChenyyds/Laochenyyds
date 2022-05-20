@@ -13,8 +13,8 @@
 📫 How to reach me: [Admin[at]chenplus.com](mailto:admin@chenplus.com)
 
 🛠 Full-stack Web Developer & Android Developer
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LaoChenyyds&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YydsChen&show_icons=true&hide_border=true">
  <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
- ![](https://count.getloli.com/get/@LaoChenyyds)
+ ![](https://count.getloli.com/get/@YydsChen)
 
-#### © ChenPlus.com | [@WeiBo](https://weibo.com/ChenChilde) · [@Blog](https://blog.chenplus.com) · [@GitHub](https://github.com/LaoChenyyds)
+#### © ChenPlus.com | [@WeiBo](https://weibo.com/Chenyyds) · [@Blog](https://blog.chenplus.com) · [@GitHub](https://github.com/YydsChen)
